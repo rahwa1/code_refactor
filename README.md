@@ -8,4 +8,4 @@ The Website was working even when the assignment was assigned, the only thing th
 
 In the css file there were a lot of class elements that had the same size and style and so they were defined multiple times, since they were in the same section I used the section name.img for example and added all the properties in one. 
 
-One of the things I have learned while doing this is that .content is it's own box, so when I kept adding the contents of images and headers into it, it kept messing up the website and I found out that .content would also take the same elements from the images and headers therefore the properties for images and headers had to be separate. Aslo div tag was changed to the section tag to make sure semamtic tags were used. 
+One of the things I have learned while doing this is that .content is it's own box, so when I kept adding the contents of images and headers into it, it kept messing up the website and I found out that .content would also take the same elements from the images and headers therefore the properties for images and headers had to be separate. Aslo div tag was changed to the section tag to make sure semantic tags were used. 
